@@ -54,7 +54,7 @@ Getting Started
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/cat-dog-cnn.git
+git clone https://github.com/preethingaraja/cnn-img.git
 cd cat-dog-cnn
 2. Install dependencies
 bash
